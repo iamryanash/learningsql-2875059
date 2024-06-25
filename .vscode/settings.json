@@ -18,7 +18,7 @@
   "screencastMode.onlyKeyboardShortcuts": true,
   "sqlite.sqlite3": "/usr/bin/sqlite3",
   "terminal.integrated.fontSize": 12,
-  "window.zoomLevel": 3,
+  "window.zoomLevel": 2,
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
